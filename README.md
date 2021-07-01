@@ -21,7 +21,7 @@ This Screenshot was created from this project to show my starting point for this
 
 This Screenshot was created from this project to show my progress of this project.
 
-![Preview of part three.](https://github.com/micgonzalez/Pivot-Table-in-Excel/blob/main/excel_pivot_table/excel_pivot_table_04.jpgg)
+![Preview of part three.](https://github.com/micgonzalez/Pivot-Table-in-Excel/blob/main/excel_pivot_table/excel_pivot_table_04.jpg)
 
 This Screenshot was created from this project to show the completion of this project.
 # Findings
