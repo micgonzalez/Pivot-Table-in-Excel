@@ -13,18 +13,17 @@ I used the windows environment with the Excel program to complete this project.
 
 # Preview
 
-![Preview of section one.](https://github.com/micgonzalez/Selecting-Image-Features-for-Machine-Learning-Tasks/blob/main/ML_image_selection/section_one_image.png)
+![Preview of part one.](https://github.com/micgonzalez/Pivot-Table-in-Excel/blob/main/excel_pivot_table/excel_pivot_table_02.jpg)
 
-This Screenshot was created from this project to show the public about creating features for machine learning.
+This Screenshot was created from this project to show my starting point for this project.
 
-![Preview of section two.](https://github.com/micgonzalez/Selecting-Image-Features-for-Machine-Learning-Tasks/blob/main/ML_image_selection/section_two_image.png)
+![Preview of part two.](https://github.com/micgonzalez/Pivot-Table-in-Excel/blob/main/excel_pivot_table/excel_pivot_table_03.jpg)
 
-This Screenshot was created from this project to show the public about encoding mean color as a feature.
+This Screenshot was created from this project to show my progress of this project.
 
-![Preview of section three.](https://github.com/micgonzalez/Selecting-Image-Features-for-Machine-Learning-Tasks/blob/main/ML_image_selection/section_three_image.png)
+![Preview of part three.](https://github.com/micgonzalez/Pivot-Table-in-Excel/blob/main/excel_pivot_table/excel_pivot_table_04.jpgg)
 
-This Screenshot was created from this project to show the public about encoding a color histogram as features.
-
+This Screenshot was created from this project to show the completion of this project.
 # Findings
 I was amazed in my initial findings that some colors out sold others in certain regions of the country. I was glad to that this data was able to show me some useful insights. 
 
